@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sgp:sgp1234@sgpproject.wzrmtto.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
